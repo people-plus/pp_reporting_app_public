@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Viene ora mostrata l'indicazione del prezzo legato all'item selezionato
 
-## [1.2] - 2021-03-16
+## [1.2] - 2021-03-18
 ### Changed
 - L'inserimento di una rapportazione senza riga di dettaglio non è più consentita
 - Il grafico di trend mostra ora le informazioni relative al mese corrente, anziché alla settimana corrente
